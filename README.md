@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rankitbishnoi-srijan
+- 👋 Hi, I’m Rankti Bishnoi
 - 👀 I’m interested in exploring different ways to code.
 - 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on creating a golang ecommerce project similar to nopcommerce or payever.
